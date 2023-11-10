@@ -41,7 +41,7 @@ public class CalculateAll implements ActionListener{
     JButton buttonDelete = new JButton("DEL");
     JButton buttonSqrt = new JButton("\u221A");
     JButton buttonReciprocal = new JButton("1/x");
-    JButton buttonSquare = new JButton("x\\u00B2");
+    JButton buttonSquare = new JButton("<html>x<sup>2</sup></html>");
     
     
         
